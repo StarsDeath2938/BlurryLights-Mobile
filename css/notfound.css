@@ -40,11 +40,12 @@ main {
 main .container {
   position: relative;
   top: -0.5rem;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  /* -webkit-box-sizing: border-box;
+          box-sizing: border-box; */
   width: 90%;
-  height: 5rem;
+  /* height: 5rem; */
   border: 2px solid #AB82FF;
+  padding-bottom: 0.5rem;
 }
 
 main .container .FirstLine {
